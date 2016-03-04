@@ -8,7 +8,7 @@ const http = require('http');
  * API key used to access the webapi more often than usual.
  * @type {String}
  */
-const apiKey = 'f564ad0cb00240ff9e90cfd4262bbad6';
+const apiKey = 'YOUR_API_KEY_GOES_HERE';
 
 const optionsHeaders = { 'X-Auth-Token': apiKey };
 
